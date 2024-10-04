@@ -10,9 +10,9 @@ import numpy as np
 import time  # Import the time module
 
 # Use the generated App Password
-password = "puie boym kgsa aqhu"  # App Password from Google
-from_email = "karthicksaran2605@gmail.com"  # Your Gmail address
-to_email = "karthicksaran2605sjce@gmail.com"  # Receiver's email address
+password =   # App Password from Google
+from_email =   # Your Gmail address
+to_email =   # Receiver's email address
 
 # Function to send email with images of detected humans
 def send_email(to_email, from_email, human_images):
